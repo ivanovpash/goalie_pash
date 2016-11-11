@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\павел\desktop\graphs\bellman_ford\main.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+  bellman_ford.vcxproj -> C:\Users\Павел\Desktop\graphs\Debug\bellman_ford.exe
+  bellman_ford.vcxproj -> C:\Users\Павел\Desktop\graphs\Debug\bellman_ford.pdb (Partial PDB)

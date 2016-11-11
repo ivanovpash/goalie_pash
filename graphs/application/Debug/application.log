@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\павел\desktop\научная работа\graphs\application\main.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\павел\desktop\научная работа\graphs\application\main.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+  application.vcxproj -> C:\Users\Павел\Desktop\Научная работа\graphs\Debug\application.exe
