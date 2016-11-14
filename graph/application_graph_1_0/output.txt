@@ -1,0 +1,241 @@
+Òàêò 1
+min edge: 1
+max edge: 1492
+edge exp val: 87.8707
+edge st dev: 256.751
+min cut exp val: 3338.11
+min cut exp val: 794.228
+num reach s-t: 66
+diametr: 1492
+min deg: 3
+max deg: 13
+deg exp val: 7.06667
+deg st val: 2.09125
+num all edge not null: 159
+resource: 86992
+
+Òàêò 2
+min edge: 1
+max edge: 1492
+edge exp val: 87.7535
+edge st dev: 256.71
+min cut exp val: 3330.76
+min cut exp val: 792.526
+num reach s-t: 66
+diametr: 1492
+min deg: 3
+max deg: 13
+deg exp val: 7.02222
+deg st val: 2.0384
+num all edge not null: 158
+resource: 86876
+
+Òàêò 3
+min edge: 10
+max edge: 1492
+edge exp val: 86.3646
+edge st dev: 256.362
+min cut exp val: 3253.23
+min cut exp val: 787.47
+num reach s-t: 66
+diametr: 1492
+min deg: 3
+max deg: 12
+deg exp val: 6.71111
+deg st val: 1.86931
+num all edge not null: 151
+resource: 85501
+
+Òàêò 4
+min edge: 7
+max edge: 1492
+edge exp val: 85.0131
+edge st dev: 255.962
+min cut exp val: 3180.14
+min cut exp val: 786.672
+num reach s-t: 66
+diametr: 1492
+min deg: 3
+max deg: 12
+deg exp val: 6.48889
+deg st val: 1.8333
+num all edge not null: 146
+resource: 84163
+
+Òàêò 5
+min edge: 1
+max edge: 1492
+edge exp val: 75.7313
+edge st dev: 248.692
+min cut exp val: 2568.98
+min cut exp val: 711.306
+num reach s-t: 66
+diametr: 1492
+min deg: 2
+max deg: 10
+deg exp val: 5.28889
+deg st val: 1.70779
+num all edge not null: 119
+resource: 74974
+
+Òàêò 6
+min edge: 3
+max edge: 1492
+edge exp val: 66.3717
+edge st dev: 237.246
+min cut exp val: 1983.55
+min cut exp val: 696.971
+num reach s-t: 66
+diametr: 1492
+min deg: 2
+max deg: 8
+deg exp val: 4.48889
+deg st val: 1.57229
+num all edge not null: 101
+resource: 65708
+
+Òàêò 7
+min edge: 11
+max edge: 1405
+edge exp val: 57.1414
+edge st dev: 219.939
+min cut exp val: 1371.14
+min cut exp val: 754.744
+num reach s-t: 66
+diametr: 1405
+min deg: 1
+max deg: 7
+deg exp val: 3.73333
+deg st val: 1.37275
+num all edge not null: 84
+resource: 56570
+
+Òàêò 8
+min edge: 3
+max edge: 1346
+edge exp val: 45.0273
+edge st dev: 191.545
+min cut exp val: 747.5
+min cut exp val: 598.768
+num reach s-t: 55
+diametr: 1346
+min deg: 0
+max deg: 7
+deg exp val: 3.06667
+deg st val: 1.38884
+num all edge not null: 69
+resource: 44577
+
+Òàêò 9
+min edge: 21
+max edge: 1321
+edge exp val: 29.3808
+edge st dev: 156.059
+min cut exp val: 83.2727
+min cut exp val: 201.492
+num reach s-t: 16
+diametr: 1321
+min deg: 0
+max deg: 6
+deg exp val: 2.13333
+deg st val: 1.29271
+num all edge not null: 48
+resource: 29087
+
+Òàêò 10
+min edge: 21
+max edge: 1321
+edge exp val: 25.2626
+edge st dev: 142.414
+min cut exp val: 31.9242
+min cut exp val: 106.435
+num reach s-t: 7
+diametr: 1321
+min deg: 0
+max deg: 5
+deg exp val: 1.82222
+deg st val: 1.06017
+num all edge not null: 41
+resource: 25010
+
+Òàêò 11
+min edge: 16
+max edge: 1321
+edge exp val: 21.5869
+edge st dev: 127.771
+min cut exp val: 11.8485
+min cut exp val: 48.8238
+num reach s-t: 6
+diametr: 1321
+min deg: 0
+max deg: 4
+deg exp val: 1.64444
+deg st val: 0.992316
+num all edge not null: 37
+resource: 21371
+
+Òàêò 12
+min edge: 21
+max edge: 1321
+edge exp val: 18.7859
+edge st dev: 114.338
+min cut exp val: 2.59091
+min cut exp val: 20.8886
+num reach s-t: 1
+diametr: 1321
+min deg: 0
+max deg: 4
+deg exp val: 1.51111
+deg st val: 0.957363
+num all edge not null: 34
+resource: 18598
+
+Òàêò 13
+min edge: 21
+max edge: 1321
+edge exp val: 17.7556
+edge st dev: 109.641
+min cut exp val: 1.56061
+min cut exp val: 12.582
+num reach s-t: 1
+diametr: 1321
+min deg: 0
+max deg: 4
+deg exp val: 1.51111
+deg st val: 0.957363
+num all edge not null: 34
+resource: 17578
+
+Òàêò 14
+min edge: 21
+max edge: 1321
+edge exp val: 16.7253
+edge st dev: 105.389
+min cut exp val: 0.530303
+min cut exp val: 4.27544
+num reach s-t: 1
+diametr: 1321
+min deg: 0
+max deg: 4
+deg exp val: 1.51111
+deg st val: 0.957363
+num all edge not null: 34
+resource: 16558
+
+Òàêò 15
+min edge: 2
+max edge: 1321
+edge exp val: 16.1949
+edge st dev: 103.394
+min cut exp val: 0
+min cut exp val: 0
+num reach s-t: 0
+diametr: 1321
+min deg: 0
+max deg: 4
+deg exp val: 1.46667
+deg st val: 0.933333
+num all edge not null: 33
+resource: 16033
+
+Program was stopped. Number of reach s-t is null.

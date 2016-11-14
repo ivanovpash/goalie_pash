@@ -1,0 +1,16 @@
+﻿  graph.cpp
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\павел\desktop\graph\application_graph_1_0\graph.cpp(274): warning C4018: '<': signed/unsigned mismatch
+  application_graph_1_0.vcxproj -> C:\Users\Павел\Desktop\graph\Debug\application_graph_1_0.exe
+  application_graph_1_0.vcxproj -> C:\Users\Павел\Desktop\graph\Debug\application_graph_1_0.pdb (Full PDB)
